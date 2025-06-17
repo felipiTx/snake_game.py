@@ -1,1 +1,1 @@
-# snake_game.py
+* jogo da "cobrinha" feito em python, reinicia quando apertado "enter".
